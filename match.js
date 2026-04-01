@@ -440,7 +440,7 @@ const editActionsBtn = document.createElement("button");
 editActionsBtn.innerText = "Edit Actions";
 editActionsBtn.style.cssText = `
   position: absolute;
-  top: 10px;
+  top: 5px;
   right: 18px;
   z-index: 50;
   padding: 10px 16px;
